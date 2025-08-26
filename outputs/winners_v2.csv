@@ -1,0 +1,7 @@
+question_id,document,model,best_score,best_score_pct
+Q1,docx,timpal0l,0.4333,43.3%
+Q2,docx,pierreguillou,0.558,55.8%
+Q3,docx,timpal0l,0.451,45.1%
+Q4,pdf,mrm8488,0.3882,38.8%
+Q5,pdf,timpal0l,0.2006,20.1%
+Q6,pdf,mrm8488,0.2776,27.8%
